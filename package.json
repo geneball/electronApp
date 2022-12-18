@@ -1,0 +1,24 @@
+{
+  "name": "electronApp",
+  "version": "1.0.0",
+  "description": "electronjs base app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geneball/electronApp.git"
+  },
+  "keywords": [
+    "electron",
+    "app"
+  ],
+  "author": "Gene Ball",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geneball/electronApp/issues"
+  },
+  "homepage": "https://github.com/geneball/electronApp#readme"
+}
